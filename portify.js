@@ -124,7 +124,7 @@ function doloadstep(){ // Load in the required libraries in the proper order
 
 function newPlaylist(name){ // Create new playlist by name.
 	$('#playlist-drawer-header .primary').click();
-	$('paper-input.playlist-name input').value = name;
+	$('paper-input.playlist-name input').val(name);
 	$('paper-button[data-action="save"]').click();
 	setTimeout(runPLPause, 1000);
 }
