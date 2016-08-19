@@ -15,7 +15,7 @@ Working again as of 5/23/16.
 
 ### Instructions (For Chrome)
 
-1. Drag the big <code>Portify.JS</code> link from [< THIS PAGE >](https://rawgit.com/jordam/Portify.JS/master/helper.html) to your bookmarks.
+1. Drag the big <code>Portify.JS</code> link from [< THIS PAGE >](https://rawgit.com/jgrocho/Portify.JS/master/helper.html) to your bookmarks.
 
 2. Click the bookmark a few times. It will grab your oauth token from spotify, load up google music, then launch Portify.JS 
   * A 404 page will appear during the process, ignore it and press the button again.
@@ -23,7 +23,7 @@ Working again as of 5/23/16.
 
 ### Instructions (Other Browsers)
 
-1. Drag the big <code>Portify.JS</code> link for other browsers from [< THIS PAGE >](https://rawgit.com/jordam/Portify.JS/master/helper.html) to your bookmarks.
+1. Drag the big <code>Portify.JS</code> link for other browsers from [< THIS PAGE >](https://rawgit.com/jgrocho/Portify.JS/master/helper.html) to your bookmarks.
 
 2. Click the bookmark twice. Follow the instructions on the page to get your oauth token.
 

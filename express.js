@@ -109,7 +109,7 @@ function gplayTakeover(){
 							.text('* {transition: none !important;}')
 							.appendTo('head');
 						document.close();
-						$.getScript("https://rawgit.com/jordam/Portify.JS/master/portify.js");
+						$.getScript("https://rawgit.com/jgrocho/Portify.JS/master/portify.js");
 					}
 				});
 			}, 1000);

@@ -104,7 +104,7 @@ function doloadstep(){ // Load in the required libraries in the proper order
 		case 0:
 			addstyle("https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css");
 			addscript('https://code.jquery.com/jquery-1.11.0.min.js', doloadstep);
-			addscript("https://rawgit.com/jordam/Portify.JS/master/g-scrape.js", function(){});
+			addscript("https://rawgit.com/jgrocho/Portify.JS/master/g-scrape.js", function(){});
 			break;
 		case 1:
 			addscript('https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js', doloadstep);
